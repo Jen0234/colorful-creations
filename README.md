@@ -18,8 +18,8 @@ This project is a web application that generates and displays seven distinct ran
 ## Getting Started
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [repository_url]
+    ```bash[
+    git clone [(https://github.com/Jen0234/colorful-creations.git)]
     ```
 2.  **Open `index.html` in your web browser.**
 
